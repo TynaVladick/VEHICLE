@@ -11,4 +11,3 @@ class car: public vehicle{
     void displayinfo() override;
 }
 
-void void void
